@@ -2,9 +2,10 @@
 Spatial analysis of tourism in Sri Lanka
 
 This projects included,
+
 1)Tourists arrival to Sri Lanka-region/country wise
 
-2)Province wise distribution of classified hotels -page 14
+2)Province wise distribution of classified hotels 
 
 3)District wise distribution of rooms of SLTDA registered accommodation establishments
 
